@@ -26,4 +26,5 @@ MDW | From the North/Northwest | OHHMY.ENDEE STAR (RNAV) or CVA.MOTIF STAR or CV
 MDW | From the Northeast | GSH.GSH STAR or GSH..CGT |
 Chicago Metro Area | From the North | BJB..OBL..Destination | AOB FL230
 DTW | From the Northeast | POLAR STAR | AOB FL310
+
 [<<<BACK<<<](attachment-c) Attachment D [>>>NEXT>>>](attachment-e.md)
