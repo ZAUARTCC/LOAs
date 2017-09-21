@@ -6,8 +6,8 @@
 2. __DISCLAIMER:__ Information contained herein is designed and specifically for use in a virtual air traffic control environment. It is not applicable, nor should it be referenced for live operations in the National Airspace System (NAS).
 3. __CANCELLATION:__ VATUSA Chicago ARTCC and VATUSA Minneapolis ARTCC Letter of Agreement dated January 15, 2011.
 4. __RESPONSIBILITIES:__
-  1. ZMP delegates to ZAU control jurisdiction of airspace in the vicinity of Volk Field, WI (VOK) and Waterloo, IA (ALO) as depicted in [Attachment A](sections/attachment-a.md) and [Attachment B](sections/attachment-b.md).
-  2. ZAU delegates to ZMP control jurisdiction of airspace in the vicinity of Des Moines, IA (DSM) as depicted in [Attachment C](sections/attachment-c.md).
+    1. ZMP delegates to ZAU control jurisdiction of airspace in the vicinity of Volk Field, WI (VOK) and Waterloo, IA (ALO) as depicted in [Attachment A](sections/attachment-a.md) and [Attachment B](sections/attachment-b.md).
+    2. ZAU delegates to ZMP control jurisdiction of airspace in the vicinity of Des Moines, IA (DSM) as depicted in [Attachment C](sections/attachment-c.md).
 5. __PROCEDURES:__
     1. Each ARTCC must route/restrict aircraft in accordance with [Attachment D](sections/attachment-d.md).
     2. Transponder codes may be changed without coordination in an area 30NM either side of the ZMP/ZAU ARTCC common boundary, and the receiving controller must have control for turns up to 20 degrees left or right of course for aircraft within 20NM of the ZMP/ZAU ARTCC common boundary.
