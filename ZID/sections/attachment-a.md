@@ -1,7 +1,7 @@
 # Attachment A - Permanent Routes/Altitude Restrictions From ZAU  to ZID
 
 Arrival Airport(s) | Qualifier | Route Via | Altitude (Cross ZAU/ZID common boundary unless otherwise noted)
--|-|-|-|-
+-------------------|-----------|-----------|----------------------------------------------------------------
 CVG | West of VHP | DNV.CEGRM# or SHB# | SHB @ 14,000
 CVG | East of VHP | FWA.DEBAR# | AoB FL210
 IND `1,2` |  West of VHP | ...JAKKS#  | Descend via...
