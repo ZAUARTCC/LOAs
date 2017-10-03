@@ -1,4 +1,4 @@
-## 8. vZOB's Procedures
+## 8. vZOB Procedures
 
 1. Chicago Terminal Area Arrivals
    1. KORD Arrivals
